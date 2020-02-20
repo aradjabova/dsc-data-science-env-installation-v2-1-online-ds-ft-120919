@@ -200,5 +200,6 @@ dependencies:
     - tensorflow==1.6.0
     - termcolor==1.1.0
     - werkzeug==0.15.4
+    
     - zipp==0.5.1
 prefix: /anaconda3/envs/learn-test-env
